@@ -19,3 +19,10 @@ An innovative application for detecting and interpreting sign language gestures 
 - NumPy
 - SpeechRecognition
 
+# Demo Video
+
+[🎬 Click here to watch the Sign Language Detection demo](https://github.com/Madhura-6/Sign-Language-Detection/raw/main/Sign%20Language%20Detection%20Demo.mp4)
+
+> A real-time gesture recognition system translating sign language into text using MediaPipe and Streamlit.
+
+
